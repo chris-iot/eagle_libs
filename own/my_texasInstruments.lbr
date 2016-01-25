@@ -146,6 +146,7 @@
 </symbols>
 <devicesets>
 <deviceset name="BQ27210">
+<description>Conrad 1261895 - 62</description>
 <gates>
 <gate name="G$1" symbol="BQ27210" x="0" y="-2.54"/>
 </gates>
@@ -171,6 +172,7 @@
 </devices>
 </deviceset>
 <deviceset name="BQ27541">
+<description>Conrad 1013523 - 62</description>
 <gates>
 <gate name="G$1" symbol="BQ27541" x="0" y="0"/>
 </gates>

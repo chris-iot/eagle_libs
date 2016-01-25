@@ -1,3 +1,0 @@
-BQ27541: Conrad 1013523 - 62
-BQ27210: Conrad 1261895 - 62
-STC3115IJT: Conrad 1184893 - 62 (bescheiden zu löten...)
