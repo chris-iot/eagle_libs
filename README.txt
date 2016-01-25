@@ -1,0 +1,2 @@
+After cloning this repository add the paths for "downloaded" and "own" to Eagle->options->paths->libraries
+After adding a library to this repository also make sure to tell Eagle to use this library (and push the changes to origin...!!!)
